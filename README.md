@@ -9,7 +9,7 @@ A movie discovery and watchlist app using REST APIs.
 - Offline storage (Hive)
 
 ## Tech Stack
-Flutter, REST API, Hive
+Flutter, REST API(TMDB database), Hive
 
 ## Screenshots
 <img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/cb31c1c0-0717-45fc-a55e-8e79b22d5556" />
